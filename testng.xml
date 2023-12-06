@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true"
+          name="E:/USERDATA/Downloads/demo/AssignmentFalaina/src/test/java/LoginTest/PositiveTestCase_001.java">
+        <classes>
+            <class name="LoginTest.PositiveTestCase_001"></class>
+            <class name="LoginTest.NegativeTestCase_002"></class>
+            <class name="LoginTest.NegativeTestCase_003"></class>
+            
+        </classes>
+
+    </test>
+</suite>
